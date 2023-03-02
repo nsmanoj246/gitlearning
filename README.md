@@ -1,2 +1,1 @@
-# gitlearning
-how to learn git
+# CORE JAVA #
